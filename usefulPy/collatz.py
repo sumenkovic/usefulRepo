@@ -14,8 +14,8 @@ while True:
     try:
         number = int(input())
     except ValueError:
-        print('The value must be an integer!')
+        print('The value must beS integer!')
         continue
     collatz(number)
     if result == 1:
-        break 
+        break
