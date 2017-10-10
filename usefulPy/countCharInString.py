@@ -1,6 +1,7 @@
-message = 'It was a bright cold day in April, and the clocks were striking thirteen.'
+import pprint
+message = 'This is short message for testing the count.'
 count = {}
 for character in message:
     count.setdefault(character, 0)
     count[character] = count[character] + 1
-print(count)
+pprint.pprint(count)
