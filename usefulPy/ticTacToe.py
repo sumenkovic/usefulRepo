@@ -7,4 +7,15 @@ def printBoard(board):
     print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])
     print('-+-+-')
     print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])
+turn = 'X'
+for i in range(9):
+    printBoard(theBoard)
+    print('Turn for ' + turn +
+    move = input()
+    theBoard[move] = turn
+    if turn == 'X':
+        turn = 'O'
+    else:
+        turn = 'X'
 printBoard(theBoard)
+    
