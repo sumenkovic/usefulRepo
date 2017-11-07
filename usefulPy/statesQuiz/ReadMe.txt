@@ -14,4 +14,4 @@ Austria	Vienna
 It was badly formated in clipboard, so I had to  manually add ' ' and : if I wanted this format for python:
 {'Armenia': 'Yerevan', 'Andorra': 'Andorra', 'Albania': 'Tirana', 'Austria': 'Vienna'}
 
-citiesAndCapitals script automates the boring  cities and capitals editing for dictionary.
+citiesAndCapitals script automates the boring for dictionary.
