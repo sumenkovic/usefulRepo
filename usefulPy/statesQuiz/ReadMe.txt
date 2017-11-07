@@ -1,7 +1,4 @@
-!!!!! WARNING !!!!!
-When you run the statesQuiz.py it will create a bunch of files in folder where's locates
-
-Info: Program is used to create file to print european  or us countries quiz.
+Program is used to create exact number of files for printing.
 
 
 
