@@ -1,0 +1,2 @@
+!!!!! WARNING !!!!!
+When you run the statesQuiz.py it will create a bunch of files in folder where's locates
